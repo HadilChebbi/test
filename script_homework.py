@@ -20,4 +20,3 @@ def read_data(file_path):
 
 #read_data("sales_train.csv") 
 #make sure that the file is in the same repository as the file code so that the instruction below works
-
